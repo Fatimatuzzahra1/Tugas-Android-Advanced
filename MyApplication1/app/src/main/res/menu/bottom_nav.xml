@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/baseline_home_24"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/edukasi"
+        android:icon="@drawable/baseline_auto_stories_24"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Edukasi" />
+
+    <item
+        android:id="@+id/favorite"
+        android:icon="@drawable/baseline_favorite_24"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Favorite" />
+
+    <item
+        android:id="@+id/pesanan"
+        android:icon="@drawable/baseline_assignment_24"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Pesanan" />
+
+</menu>

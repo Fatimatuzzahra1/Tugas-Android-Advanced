@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/waktuDipilih"
+        android:layout_marginTop="200dp"
+        android:text="10 : 54 PM"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="46dp"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/pilihWaktu"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_marginTop="36dp"
+        android:layout_marginHorizontal="26dp"
+        android:text="Pilih Waktu"
+        android:textSize="26dp"/>
+
+    <Button
+        android:id="@+id/aturAlarm"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginHorizontal="26dp"
+        android:text="Atur Alarm"
+        android:textSize="26dp"/>
+
+    <Button
+        android:id="@+id/hapusAlarm"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginHorizontal="26dp"
+        android:text="Hapus Alarm"
+        android:textSize="26dp"/>
+
+
+
+</LinearLayout>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TabLayout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tanaman_hias_1">Tanaman Hias 1</string>
+    <string name="tanaman_hias_2">Tanaman Hias 2</string>
+    <string name="tanaman_tanam_1">Tanaman Tanam 1</string>
+    <string name="tanaman_tanam_2">Tanaman Tanam 2</string>
+    <string name="deskripsi_img1">Deskripsi untuk img 1</string>
+    <string name="deskripsi_img2">Deskripsi untuk img 2</string>
+    <string name="deskripsi_image1">Deskripsi untuk image 1</string>
+    <string name="deskripsi_image2">Deskripsi untuk image 2</string>
+</resources>

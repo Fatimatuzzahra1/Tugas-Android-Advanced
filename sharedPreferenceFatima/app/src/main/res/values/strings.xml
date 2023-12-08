@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">sharedPreferenceFatima</string>
+    <string name="Save">Save</string>
+    <string name="Jenis_Kelamin">Jenis Kelamin</string>
+    <string name="Umur">Umur</string>
+    <string name="Nama">Nama</string>
+    <string name="Edit">EDIT</string>
+</resources>
